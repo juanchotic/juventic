@@ -1,0 +1,59 @@
+[
+    {
+      "precio": 24000,
+      "id": 1,
+      "title": "Pizza Hawaiana | Familiar",
+      "thumbnailUrl": "https://cdn.shopify.com/s/files/1/0247/8768/1379/products/pizza-familiar-hawaiana_720x.png?v=1632856175"
+    },
+    {
+      "precio": 26000,
+      "id": 2,
+      "title": "Pizza hawaiana y tocineta | Familiar",
+      "thumbnailUrl": "https://cdn.shopify.com/s/files/1/0247/8768/1379/products/pizza-familiar-hawaiana-tocineta_540x.png?v=1632856249"
+    },
+    {
+      "precio": 26200,
+      "id": 3,
+      "title": "Pollo en julianas con mozzarella",
+      "thumbnailUrl": "https://cdn.shopify.com/s/files/1/0247/8768/1379/products/panino-cobb_720x.png?v=1632857331"
+    },
+    {
+      "precio": 24900,
+      "id": 4,
+      "title": "Combinado camarones al ajillo",
+      "thumbnailUrl": "https://cdn.shopify.com/s/files/1/0247/8768/1379/products/combinado-camarones-al-ajillo_540x.png?v=1625255822"
+    },
+    {
+      "precio": 23900,
+      "id": 5,
+      "title": "Lasaña de pasta artesanal",
+      "thumbnailUrl": "https://cdn.shopify.com/s/files/1/0247/8768/1379/products/lasana-ragu_540x.png?v=1615484868"
+    },
+    {
+      "precio": 15700,
+      "id": 6,
+      "title": "Albóndigas con solomito 8 uds",
+      "thumbnailUrl": "https://cdn.shopify.com/s/files/1/0247/8768/1379/products/entrada_polpette_ilforno_540x.jpg?v=1605294248"
+    },
+
+    {
+      "precio": 76700,
+      "id": 7,
+      "title": "Canelones bolognesa y tocineta",
+      "thumbnailUrl": "https://cdn.shopify.com/s/files/1/0247/8768/1379/products/family-canelones-san-marzano_540x.png?v=1624591462"
+    },
+
+    {
+      "precio": 23400,
+      "id": 8,
+      "title": "Sánduche con tocineta",
+      "thumbnailUrl": "https://cdn.shopify.com/s/files/1/0247/8768/1379/products/panini_leonardo_ilforno_540x.jpg?v=1617888131"
+    },
+    {
+      "precio": 15300,
+      "id": 9,
+      "title": "Sopa de tomate, con camarones",
+      "thumbnailUrl": "https://cdn.shopify.com/s/files/1/0247/8768/1379/products/sopa_ilforno_camaron_ilforno_540x.png?v=1562762360"
+    }
+
+  ]
